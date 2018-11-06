@@ -1,0 +1,6 @@
+#!/bin/sh
+st key click s2
+echo "Status: 303 See Other"
+echo "Location: /"
+echo ""
+echo ""

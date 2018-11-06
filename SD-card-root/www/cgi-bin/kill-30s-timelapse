@@ -1,0 +1,6 @@
+#!/bin/sh
+killall 30s-timelapse
+echo "Status: 303 See Other"
+echo "Location: /"
+echo ""
+echo ""
