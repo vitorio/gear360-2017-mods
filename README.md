@@ -58,15 +58,15 @@ When you press "Stop 30s time-lapse", it will stop the intervalometer.  (You can
 
 If you're using "Connect to iOS" or "Connect to Android", you can safely disconnect from wifi once you've started the time-lapse, it will continue whether you're connected or not.
 
-This takes photos based on whatever settings you've set your camera to.  It's just like pressing the shutter button on the front yourself.  It does nothing extra.  You will still need to download the photos through the app, or from the SD card.  If you are taking dual lens photos, you will still need to have the app stitch them, or stitch them yourself from the SD card.
+This takes photos based on whatever settings you've set your camera to.  It's just like pressing the shutter button on the front yourself.  It does nothing extra.  You will still need to download the photos through the app, or from the SD card.  If you are taking dual lens photos, you will still need to have the app stitch them, or stitch them yourself after downloading them off the SD card.
 
 ## Pre-stitched photos
 
 If you want the camera to stitch your photos together itself, without needing to go through the app, you can use the "Connect to Street View" mode.  However, you must remain connected to the camera's wifi the entire time.
 
-Taking a photo using the "Press shutter button" while in "Connect to Street View" mode takes a photo, and then takes around 13 seconds to stitch it together onboard the camera itself, possibly longer if you have a slower SD card.
+Taking a photo using the "Press shutter button" while connected to the camera's "OSC" wifi takes a photo, and then takes around 13 seconds to stitch it together onboard the camera itself, possibly longer if you have a slower SD card.
 
-Starting the intervalometer using the "Start 30s time-lapse" button will wait 30 seconds, and then take a photo, and stitch it together, but you cannot disconnect from wifi.  If you disconnect from wifi, it will leave "Connect to Street View" mode and go back to taking regular photos (or videos, or whatever you last used).  You must have an active wifi connection to the camera the entire time the time-lapse is running if you want all your photos pre-stitched.
+Starting the intervalometer using the "Start 30s time-lapse" button will wait 30 seconds, and then take a photo, and stitch it together, but you cannot disconnect from the "OSC" wifi.  If you disconnect from wifi, it will leave Street View mode and go back to taking regular photos (or videos, or whatever you last used).  You must have an active connection to the camera's "OSC" wifi the entire time the time-lapse is running if you want all your photos pre-stitched.
 
 ## Credits
 
