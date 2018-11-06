@@ -2,7 +2,7 @@
 
 Modding a Samsung Gear 360 camera (2017) to support wifi remote shutter and time-lapse photos
 
-![Screenshot](https://github.com/vitorio/gear360-2017-mods/blob/master/Screen Shot 2018-11-05 at 12.26.22 AM.png)
+<img src="https://github.com/vitorio/gear360-2017-mods/blob/master/Screen%20Shot%202018-11-05%20at%2012.26.22%20AM.png" width=312>
 
 ## Setup
 
