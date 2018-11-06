@@ -16,7 +16,7 @@ Visit the [BusyBox site](https://www.busybox.net) and download the latest `armv7
 
 Copy that `busybox-armv7l` file to your SD card root.  Rename it `telnetd` with no extension.
 
-Copy that `busybox-arm7l` file to your SD card root _again_.  Rename it `httpd` with no extension.
+Copy that `busybox-armv7l` file to your SD card root _again_.  Rename it `httpd` with no extension.
 
 Your SD card should now look like this:
 
